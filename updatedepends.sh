@@ -7,4 +7,4 @@ wget https://www.gstatic.com/firebasejs/$firebase_version/firebase-app.js -O /ho
 echo "Updating Firebase auth"
 wget https://www.gstatic.com/firebasejs/$firebase_version/firebase-auth.js -O /home/gregory/AccessinTab/www/js/lib/firebase-auth.js
 echo "Updating Firebase Firestore"
-get https://www.gstatic.com/firebasejs/$firebase_version/firebase-firestore.js -O /home/gregory/AccessinTab/www/js/lib/firebase-firestore.js
+wget https://www.gstatic.com/firebasejs/$firebase_version/firebase-firestore.js -O /home/gregory/AccessinTab/www/js/lib/firebase-firestore.js
